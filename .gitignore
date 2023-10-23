@@ -9,3 +9,7 @@ node_modules
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 firebase-debug.log
+.firebase
+.github
+.firebaserc
+firebase.json
